@@ -1,0 +1,168 @@
+2024-12-20 16:09:49,423:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 16:09:49,423:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 16:09:49,423:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 16:09:49,423:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 16:26:28,319:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 16:26:28,319:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 16:26:28,319:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 16:26:28,319:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 16:28:33,269:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 16:28:33,269:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 16:28:33,269:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 16:28:33,269:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 21:06:18,564:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 21:06:18,565:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 21:06:18,565:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 21:06:18,565:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 21:12:12,890:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\2270192453.py:9: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:12:19,514:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\2270192453.py:9: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:12:22,183:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\2270192453.py:9: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:12:33,238:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\2270192453.py:9: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:12:36,418:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\2270192453.py:9: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:12:42,848:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\2270192453.py:9: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:14:10,557:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\2270192453.py:9: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:14:17,968:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\2270192453.py:9: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:14:28,814:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\2270192453.py:9: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:14:30,052:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [21:14:30] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 21:14:39,187:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\2270192453.py:9: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:14:40,419:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [21:14:40] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 21:14:44,424:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\2270192453.py:9: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:14:45,620:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [21:14:45] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 21:14:49,547:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\2270192453.py:9: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:14:50,705:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [21:14:50] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 21:14:54,658:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\2270192453.py:9: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:14:55,845:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [21:14:55] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 21:14:59,788:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\2270192453.py:9: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:15:01,000:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [21:15:01] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 21:15:33,893:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\1025967402.py:8: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:15:35,051:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [21:15:35] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 21:15:39,923:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\1025967402.py:8: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:15:41,100:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [21:15:41] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 21:15:46,195:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\1025967402.py:8: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:15:47,566:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [21:15:47] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 21:15:52,194:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\1025967402.py:8: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:15:53,425:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [21:15:53] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 21:15:58,962:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\1025967402.py:8: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:16:00,165:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [21:16:00] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 21:16:02,502:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\1025967402.py:8: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:16:03,649:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [21:16:03] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 21:16:06,640:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\1025967402.py:8: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:16:07,794:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [21:16:07] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 21:16:12,726:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\1025967402.py:8: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:16:13,907:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [21:16:13] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 21:16:18,750:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\1025967402.py:8: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:16:19,918:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [21:16:19] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 21:18:10,611:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\2507244000.py:8: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:18:11,792:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [21:18:11] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 21:18:16,629:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\2507244000.py:8: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:18:17,802:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [21:18:17] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 21:18:22,657:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\2507244000.py:8: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:18:23,836:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [21:18:23] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 21:18:28,814:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\2507244000.py:8: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:18:29,988:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [21:18:29] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 21:18:34,813:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_2464\2507244000.py:8: FutureWarning: pandas.value_counts is deprecated and will be removed in a future version. Use pd.Series(obj).value_counts() instead.
+
+2024-12-20 21:18:36,005:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [21:18:36] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+

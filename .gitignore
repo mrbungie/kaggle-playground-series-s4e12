@@ -1,0 +1,15 @@
+venv/
+*.pkl
+*.csv
+*.html
+*.feather
+*.json
+
+.ipynb_checkpoints/
+catboost_info/
+AutogluonModels
+
+*.pyc
+*.sqlite3
+*.zip
+*.parquet

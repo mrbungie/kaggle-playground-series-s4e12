@@ -1,0 +1,574 @@
+2024-12-20 19:10:54,204:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 19:10:54,204:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 19:10:54,204:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 19:10:54,204:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 19:17:08,359:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:17:08] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:17:16,740:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:17:16] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:17:17,262:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:17:17] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:17:18,322:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:17:18] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:17:38,714:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:17:38] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:17:45,056:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:17:45] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:17:46,423:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:17:46] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:18:01,413:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:18:01] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:18:09,705:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:18:09] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:18:10,200:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:18:10] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:18:11,232:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:18:11] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:19:04,268:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:19:04] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:19:12,179:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:19:12] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:19:13,180:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:19:13] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:20:52,210:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:20:52] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:21:00,573:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:21:00] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:21:01,094:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:21:01] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:21:02,127:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:21:02] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:21:05,608:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:21:05] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:21:12,165:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:21:12] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:21:13,024:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:21:13] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:21:18,517:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:21:18] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:21:26,775:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:21:26] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:21:27,311:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:21:27] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:21:28,415:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:21:28] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:21:33,452:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:21:33] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:21:35,264:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:21:35] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:21:54,989:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:21:54] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:21:56,325:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:21:56] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:21:57,114:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:21:57] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:22:04,120:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:22:04] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:22:05,479:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:22:05] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:22:06,265:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:22:06] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:22:13,177:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:22:13] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:22:14,521:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:22:14] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:22:15,348:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:22:15] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:23:02,095:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 19:23:02,095:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 19:23:02,095:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 19:23:02,095:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 19:23:26,642:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:23:26] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:23:35,912:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:23:35] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:23:36,427:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:23:36] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:23:37,460:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:23:37] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:23:40,566:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:23:40] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:23:42,491:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:23:42] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:23:43,392:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:23:43] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:26:08,565:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:26:08] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:26:10,505:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:26:10] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:26:11,411:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:26:11] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:26:48,126:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 19:26:48,126:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 19:26:48,126:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 19:26:48,127:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 19:27:09,569:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:27:09] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:27:11,725:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:27:11] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:27:12,680:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:27:12] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:27:23,680:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:27:23] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:27:25,486:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:27:25] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:27:26,466:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:27:26] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:27:31,298:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:27:31] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:27:32,199:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:27:32] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:27:47,992:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:27:47] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:27:48,636:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:27:48] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:27:49,269:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:27:49] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:28:22,432:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:28:22] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:28:23,505:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:28:23] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:28:24,049:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:28:24] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:29:06,148:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:29:06] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:29:07,166:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [19:29:07] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-20 19:37:10,445:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 19:37:10,445:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 19:37:10,445:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 19:37:10,445:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-20 19:37:12,019:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\impute\_iterative.py:801: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+
+2024-12-20 19:53:48,168:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\missforest\missforest.py:333: UserWarning: Label encoding is no longer performed by default. Users will have to perform categorical features encoding by themselves.
+
+2024-12-20 19:54:36,984:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\missforest\missforest.py:333: UserWarning: Label encoding is no longer performed by default. Users will have to perform categorical features encoding by themselves.
+
+2024-12-20 19:54:51,538:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\missforest\missforest.py:333: UserWarning: Label encoding is no longer performed by default. Users will have to perform categorical features encoding by themselves.
+
+2024-12-20 19:55:53,293:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_30424\2161474126.py:1: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '[0 0 1 ... 1 1 0]' has dtype incompatible with category, please explicitly cast to a compatible dtype first.
+
+2024-12-20 19:55:53,351:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_30424\2161474126.py:1: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '[1 0 0 ... 0 2 0]' has dtype incompatible with category, please explicitly cast to a compatible dtype first.
+
+2024-12-20 19:55:53,411:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_30424\2161474126.py:1: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '[0 2 1 ... 2 3 3]' has dtype incompatible with category, please explicitly cast to a compatible dtype first.
+
+2024-12-20 19:55:53,463:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_30424\2161474126.py:1: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '[ 1 -1  1 ... -1 -1 -1]' has dtype incompatible with category, please explicitly cast to a compatible dtype first.
+
+2024-12-20 19:55:53,511:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_30424\2161474126.py:1: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '[2 0 1 ... 1 1 0]' has dtype incompatible with category, please explicitly cast to a compatible dtype first.
+
+2024-12-20 19:55:53,571:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_30424\2161474126.py:1: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '[2 1 2 ... 0 2 2]' has dtype incompatible with category, please explicitly cast to a compatible dtype first.
+
+2024-12-20 19:55:53,620:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_30424\2161474126.py:1: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '[2 0 1 ... 1 2 1]' has dtype incompatible with category, please explicitly cast to a compatible dtype first.
+
+2024-12-20 19:55:53,667:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_30424\2161474126.py:1: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '[0 1 1 ... 0 0 1]' has dtype incompatible with category, please explicitly cast to a compatible dtype first.
+
+2024-12-20 19:55:53,708:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_30424\2161474126.py:1: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '[3 1 3 ... 1 0 1]' has dtype incompatible with category, please explicitly cast to a compatible dtype first.
+
+2024-12-20 19:55:53,756:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_30424\2161474126.py:1: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '[2 2 2 ... 1 0 2]' has dtype incompatible with category, please explicitly cast to a compatible dtype first.
+
+2024-12-20 19:56:06,966:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\missforest\missforest.py:333: UserWarning: Label encoding is no longer performed by default. Users will have to perform categorical features encoding by themselves.
+
+2024-12-20 20:01:55,219:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\missforest\missforest.py:333: UserWarning: Label encoding is no longer performed by default. Users will have to perform categorical features encoding by themselves.
+
+2024-12-20 20:03:21,230:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\missforest\missforest.py:333: UserWarning: Label encoding is no longer performed by default. Users will have to perform categorical features encoding by themselves.
+
+2024-12-20 20:03:25,077:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\missforest\missforest.py:303: UserWarning: NRMSE increased.
+
+2024-12-20 20:03:25,077:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\missforest\missforest.py:453: UserWarning: Stopping criterion triggered during fitting. Before last imputation matrix will be returned.
+
+2024-12-20 20:03:25,086:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\missforest\missforest.py:490: UserWarning: Label encoding is no longer performed by default. Users will have to perform categorical features encoding by themselves.
+
+2024-12-20 20:03:25,086:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\missforest\missforest.py:494: UserWarning: In version 4.2.2, estimator fitting process is moved to `fit` method. `MissForest` will now imputes unseen missing values with fitted estimators with `transform` method. To retain the old behaviour, use `fit_transform` to fit the whole unseen data instead.
+
+2024-12-20 20:03:25,199:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\missforest\missforest.py:303: UserWarning: NRMSE increased.
+
+2024-12-20 20:03:25,199:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\missforest\missforest.py:574: UserWarning: Stopping criterion triggered during transform. Before last imputation matrix will be returned.
+
+2024-12-20 20:03:52,133:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\missforest\missforest.py:333: UserWarning: Label encoding is no longer performed by default. Users will have to perform categorical features encoding by themselves.
+
+2024-12-20 20:04:19,970:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\missforest\missforest.py:333: UserWarning: Label encoding is no longer performed by default. Users will have to perform categorical features encoding by themselves.
+
+2024-12-20 20:07:16,446:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_30424\424720752.py:1: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '[0 0 1 ... 1 1 0]' has dtype incompatible with category, please explicitly cast to a compatible dtype first.
+
+2024-12-20 20:07:16,503:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_30424\424720752.py:1: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '[1 0 0 ... 0 2 0]' has dtype incompatible with category, please explicitly cast to a compatible dtype first.
+
+2024-12-20 20:07:16,550:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_30424\424720752.py:1: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '[0 2 1 ... 2 3 3]' has dtype incompatible with category, please explicitly cast to a compatible dtype first.
+
+2024-12-20 20:07:16,600:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_30424\424720752.py:1: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '[ 1 -1  1 ... -1 -1 -1]' has dtype incompatible with category, please explicitly cast to a compatible dtype first.
+
+2024-12-20 20:07:16,648:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_30424\424720752.py:1: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '[2 0 1 ... 1 1 0]' has dtype incompatible with category, please explicitly cast to a compatible dtype first.
+
+2024-12-20 20:07:16,708:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_30424\424720752.py:1: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '[2 1 2 ... 0 2 2]' has dtype incompatible with category, please explicitly cast to a compatible dtype first.
+
+2024-12-20 20:07:16,756:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_30424\424720752.py:1: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '[2 0 1 ... 1 2 1]' has dtype incompatible with category, please explicitly cast to a compatible dtype first.
+
+2024-12-20 20:07:16,802:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_30424\424720752.py:1: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '[0 1 1 ... 0 0 1]' has dtype incompatible with category, please explicitly cast to a compatible dtype first.
+
+2024-12-20 20:07:16,844:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_30424\424720752.py:1: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '[3 1 3 ... 1 0 1]' has dtype incompatible with category, please explicitly cast to a compatible dtype first.
+
+2024-12-20 20:07:16,892:WARNING:C:\Users\geroa\AppData\Local\Temp\ipykernel_30424\424720752.py:1: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '[2 2 2 ... 1 0 2]' has dtype incompatible with category, please explicitly cast to a compatible dtype first.
+
+2024-12-20 20:07:32,415:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\missforest\missforest.py:333: UserWarning: Label encoding is no longer performed by default. Users will have to perform categorical features encoding by themselves.
+
+2024-12-20 20:13:23,199:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\missforest\missforest.py:333: UserWarning: Label encoding is no longer performed by default. Users will have to perform categorical features encoding by themselves.
+
+2024-12-25 23:47:05,408:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-25 23:47:05,408:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-25 23:47:05,408:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-25 23:47:05,408:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-26 00:46:07,781:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:46:07] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:46:10,504:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:46:10] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:46:13,241:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:46:13] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:46:16,174:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:46:16] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:46:19,199:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:46:19] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:49:12,109:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:49:12] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:49:14,885:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:49:14] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:49:17,778:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:49:17] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:49:20,736:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:49:20] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:49:23,527:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:49:23] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:49:35,401:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:49:35] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:49:38,195:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:49:38] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:49:41,070:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:49:41] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:49:43,833:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:49:43] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:49:46,611:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:49:46] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:50:02,104:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:50:02] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:50:05,078:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:50:05] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:50:07,909:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:50:07] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:50:10,766:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:50:10] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:50:13,630:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:50:13] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:56:18,647:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:56:18] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:56:22,253:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:56:22] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:56:25,771:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:56:25] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:56:29,314:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:56:29] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 00:56:32,813:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [00:56:32] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 02:14:29,238:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:14:29] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 02:14:33,412:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:14:33] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 02:14:37,455:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:14:37] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 02:14:41,499:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:14:41] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 02:14:45,455:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:14:45] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_boost_round" } are not used.
+
+
+2024-12-26 02:15:11,427:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:15:11] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_re" } are not used.
+
+
+2024-12-26 02:15:15,501:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:15:15] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_re" } are not used.
+
+
+2024-12-26 02:15:19,443:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:15:19] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_re" } are not used.
+
+
+2024-12-26 02:15:23,517:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:15:23] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_re" } are not used.
+
+
+2024-12-26 02:15:33,097:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:15:33] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_re" } are not used.
+
+
+2024-12-26 02:16:36,525:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:16:36] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_re" } are not used.
+
+
+2024-12-26 02:16:40,819:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:16:40] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_re" } are not used.
+
+
+2024-12-26 02:16:45,473:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:16:45] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_re" } are not used.
+
+
+2024-12-26 02:16:49,917:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:16:49] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_re" } are not used.
+
+
+2024-12-26 02:16:54,252:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:16:54] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_re" } are not used.
+
+
+2024-12-26 02:17:31,055:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:17:31] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_re" } are not used.
+
+
+2024-12-26 02:17:50,856:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:17:50] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_re" } are not used.
+
+
+2024-12-26 02:17:52,228:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:17:52] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:58: Falling back to prediction using DMatrix due to mismatched devices. This might lead to higher memory usage and slower performance. XGBoost is running on: cuda:0, while the input data is on: cpu.
+Potential solutions:
+- Use a data structure that matches the device ordinal in the booster.
+- Set the device for booster before call to inplace_predict.
+
+This warning will only be shown once.
+
+
+2024-12-26 02:17:53,874:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:17:53] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_re" } are not used.
+
+
+2024-12-26 02:17:56,564:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:17:56] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_re" } are not used.
+
+
+2024-12-26 02:17:59,436:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:17:59] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_re" } are not used.
+
+
+2024-12-26 02:18:02,180:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:18:02] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_re" } are not used.
+
+
+2024-12-26 02:18:11,600:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:18:11] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_re" } are not used.
+
+
+2024-12-26 02:18:18,201:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:18:18] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_re" } are not used.
+
+
+2024-12-26 02:18:24,649:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:18:24] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_re" } are not used.
+
+
+2024-12-26 02:18:30,952:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:18:30] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_re" } are not used.
+
+
+2024-12-26 02:18:37,300:WARNING:C:\Users\geroa\AppData\Local\Programs\Python\Python310\lib\site-packages\xgboost\core.py:158: UserWarning: [02:18:37] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-0c55ff5f71b100e98-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "num_re" } are not used.
+
+
