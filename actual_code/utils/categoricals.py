@@ -1,6 +1,7 @@
 from sklearn.base import BaseEstimator, TransformerMixin
 import pandas as pd
-import numpy as np
+
+UNKNOWN_CATEGORY = "__Unknown__"
 
 class CategoricalToStringTransformer(BaseEstimator, TransformerMixin):
     def fit(self, X, y=None):
@@ -26,6 +27,13 @@ class CategoricalToStringTransformer(BaseEstimator, TransformerMixin):
     
 class CatogoricalUnknownTransformer(BaseEstimator, TransformerMixin):
     def fit(self, X, y=None):
+        # Get categories for all columns
+        self.categories = {}
+        for col in X.columns:
+            if pd.api.types.is_categorical_dtype(X[col]):
+                self.categories[col] = list(X[col].cat.categories)
+                self.categories[col].append(UNKNOWN_CATEGORY)
+                
         return self
     
     def transform(self, X):
@@ -36,9 +44,16 @@ class CatogoricalUnknownTransformer(BaseEstimator, TransformerMixin):
             # Check if the column is of categorical data type
             if pd.api.types.is_categorical_dtype(X_transformed[col]):
                 # Convert the categorical column to string
-                X_transformed[col] = X_transformed[col].cat.add_categories("__Unknown__")
-                X_transformed[col] = X_transformed[col].fillna("__Unknown__")
-        
+                X_transformed[col] = X_transformed[col].cat.add_categories(UNKNOWN_CATEGORY)
+                X_transformed[col] = X_transformed[col].fillna(UNKNOWN_CATEGORY)
+            
+                # Check if column values are in the categories dictionary
+                values = X_transformed[col].unique()
+                for val in values:
+                    if val not in self.categories[col]:
+                        print("New non-trained category : ", val, "for column : ", col)
+                        X_transformed.loc[X_transformed[col] == val, col] = UNKNOWN_CATEGORY
+                
         return X_transformed
     
 class CategoricalEncoder(BaseEstimator, TransformerMixin):
